@@ -10,7 +10,11 @@ import java.util.TimeZone;
  * Multiple threads showing priority setting.
  * that update and display the current time and date for multiple time zones.
  * Using 5 time zones.
+ * git hub repo :    https://github.com/jtranberg/clock_multi_thread/tree/main/clock
  */
+// Java clock with multi threads showing priority 
+//showing  5 time zones.
+//git hub repo...  https://github.com/jtranberg/clock_multi_thread/tree/main/clock
 public class Clock {
     private static JFrame frame;
     private static JLabel[] timeLabels;
