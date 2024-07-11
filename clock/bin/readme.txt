@@ -1,8 +1,9 @@
 Welcome to my Clock.  
 Time from around the world.
 This Java project shows the ability to multi thread with priority to chosen threads.
-It uses a for loop to iterate through the threads
+It uses a for loop to iterate through the  call threads
 It uses a for loop to iterate through the display threads.
+Uses Runnable Interface for thread control
 
 
 
